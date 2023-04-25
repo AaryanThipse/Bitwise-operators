@@ -6,3 +6,6 @@ In C, the following 6 operators are bitwise operators (also known as bit operato
 4.The << (left shift) in C or C++ takes two numbers, the left shifts the bits of the first operand, and the second operand decides the number of places to shift. <br>
 5.The >> (right shift) in C or C++ takes two numbers, right shifts the bits of the first operand, and the second operand decides the number of places to shift.<br> 
 6.The ~ (bitwise NOT) in C or C++ takes one number and inverts all bits of it.<br>
+<br>
+![Operators-In-C](https://user-images.githubusercontent.com/124968304/234179252-90b76920-d5e4-451e-a900-67fcc277ae63.png)
+<br>
