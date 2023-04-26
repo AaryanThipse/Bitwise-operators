@@ -11,7 +11,7 @@ In C, the following 6 operators are bitwise operators (also known as bit operato
 <br>
 <b><ins>Output</b></ins>
 <img width="927" alt="bitwise" src="https://user-images.githubusercontent.com/124968304/234179783-e8e52c49-3464-4cc4-a7e9-bc051ab783dd.png">
-<img width="927" alt="bitwise" src="https://user-images.githubusercontent.com/124968304/234179808-3a33f699-7433-48f2-8471-595721153a78.png">
+
 
 
 
