@@ -10,6 +10,7 @@ In C, the following 6 operators are bitwise operators (also known as bit operato
 ![Operators-In-C](https://user-images.githubusercontent.com/124968304/234179252-90b76920-d5e4-451e-a900-67fcc277ae63.png)
 <br>
 <b><ins>Output</b></ins><br>
+<br>
 <img width="927" alt="bitwise" src="https://user-images.githubusercontent.com/124968304/234179783-e8e52c49-3464-4cc4-a7e9-bc051ab783dd.png">
 
 
